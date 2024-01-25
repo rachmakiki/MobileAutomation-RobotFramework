@@ -1,0 +1,5 @@
+logo_homePage : '//android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]'
+signIn_homePage : '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+username_homePage : '//android.widget.TextView[@resource-id="com.example.myapplication:id/textView"]'
+search_homepage : '//android.widget.Button[@resource-id="com.example.myapplication:id/search_flight"]'
+search_main : '//android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Search"]'

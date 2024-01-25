@@ -1,0 +1,4 @@
+search_input_searchpage : '//android.widget.EditText[@resource-id="com.example.myapplication:id/flight_number"]'
+search_button_searchpage : '//android.widget.Button[@resource-id="com.example.myapplication:id/searchFlight"]'
+logo_flight : '//android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]'
+error_message : "Please enter valid Flight Number"
